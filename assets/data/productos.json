@@ -1,0 +1,214 @@
+[
+  {
+    "id": 1,
+    "name": "Joystick Xbox Pro Gaming",
+    "price": 100,
+    "category": "joysticks",
+    "image": "xboxgaming.jpg",
+    "description": "Joystick inalámbrico para Xbox y PC.",
+    "attributes": {
+      "conexion": "Bluetooth",
+      "plataforma": "Xbox y PC",
+      "bateria": "40 horas"
+    }
+  },
+  {
+    "id": 2,
+    "name": "Teclado Gaming RGB",
+    "price": 80,
+    "discount": 15,
+    "category": "teclados",
+    "image": "Teclado Gaming RGB.webp",
+    "description": "Teclado mecánico con iluminación RGB.",
+    "attributes": {
+      "conexion": "USB",
+      "switches": "Mecánicos",
+      "iluminacion": "RGB"
+    }
+  },
+  {
+    "id": 3,
+    "name": "Mouse Gamer Pro",
+    "price": 60,
+    "category": "mouses",
+    "image": "Mouse Gamer Pro.webp",
+    "description": "Mouse ergonómico de alta precisión.",
+    "attributes": {
+      "conexion": "USB",
+      "sensor": "Óptico",
+      "dpi": "6400 DPI"
+    }
+  },
+  {
+    "id": 4,
+    "name": "Auriculares Gaming 7.1",
+    "price": 75,
+    "category": "auriculares",
+    "image": "Auriculares Gaming 7.webp",
+    "description": "Auriculares con sonido envolvente y micrófono.",
+    "attributes": {
+      "conexion": "USB",
+      "audio": "7.1 envolvente",
+      "microfono": "Integrado"
+    }
+  },
+  {
+    "id": 11,
+    "name": "Mando USB PC Arcade",
+    "price": 45,
+    "category": "joysticks",
+    "image": "mando compatible con pc arcade.webp",
+    "description": "Mando USB Arcade compatible con PC.",
+    "attributes": {
+      "conexion": "USB",
+      "plataforma": "PC",
+      "tipo": "Arcade"
+    }
+  },
+  {
+    "id": 12,
+    "name": "Teclado Mecánico Compacto",
+    "price": 110,
+    "category": "teclados",
+    "image": "Teclado Mecánico Compacto.webp",
+    "description": "Teclado mecánico compacto con switches profesionales.",
+    "attributes": {
+      "conexion": "USB-C",
+      "formato": "Compacto",
+      "switches": "Profesionales"
+    }
+  },
+  {
+    "id": 13,
+    "name": "Mouse Inalámbrico Pro",
+    "price": 85,
+    "category": "mouses",
+    "image": "Mouse Inalámbrico Pro.webp",
+    "description": "Mouse inalámbrico con sensor de alta precisión.",
+    "attributes": {
+      "conexion": "Wireless 2.4 GHz",
+      "sensor": "Óptico",
+      "dpi": "12000 DPI"
+    }
+  },
+  {
+    "id": 14,
+    "name": "Auriculares Bluetooth",
+    "price": 90,
+    "category": "auriculares",
+    "image": "Auriculares Bluetooth.webp",
+    "description": "Auriculares inalámbricos con conexión Bluetooth.",
+    "attributes": {
+      "conexion": "Bluetooth 5.2",
+      "bateria": "30 horas",
+      "microfono": "Integrado"
+    }
+  },
+  {
+    "id": 24,
+    "name": "Joystick Inalámbrico Pro",
+    "price": 120,
+    "discount": 20,
+    "category": "joysticks",
+    "image": "Joystick Inalámbrico Pro.webp",
+    "description": "Joystick inalámbrico con batería recargable.",
+    "attributes": {
+      "conexion": "Wireless 2.4 GHz",
+      "plataforma": "PC y consola",
+      "bateria": "25 horas"
+    }
+  },
+  {
+    "id": 25,
+    "name": "Joystick AvionGame USB",
+    "price": 70,
+    "category": "joysticks",
+    "image": "Joystick Avion USB.webp",
+    "description": "Control avion USB para PC y consolas.",
+    "attributes": {
+      "conexion": "USB",
+      "plataforma": "PC y consolas",
+      "tipo": "Joystick de vuelo"
+    }
+  },
+  {
+    "id": 26,
+    "name": "Teclado Gaming TKL",
+    "price": 125,
+    "category": "teclados",
+    "image": "Teclado Gaming TKL.webp",
+    "description": "Teclado mecánico sin teclado numérico.",
+    "attributes": {
+      "conexion": "USB",
+      "formato": "TKL",
+      "iluminacion": "RGB"
+    }
+  },
+  {
+    "id": 27,
+    "name": "Teclado Inalámbrico RGB",
+    "price": 105,
+    "category": "teclados",
+    "image": "Teclado Inalámbrico RGB.webp",
+    "description": "Teclado inalámbrico con iluminación RGB.",
+    "attributes": {
+      "conexion": "Bluetooth",
+      "switches": "Membrana",
+      "iluminacion": "RGB"
+    }
+  },
+  {
+    "id": 28,
+    "name": "Mouse Work Inalámbrico",
+    "price": 95,
+    "discount": 10,
+    "category": "mouses",
+    "image": "Mouse Work Inalámbrico.webp",
+    "description": "Mouse inalámbrico con sensor de precisión.",
+    "attributes": {
+      "conexion": "Bluetooth",
+      "sensor": "Óptico",
+      "dpi": "3200 DPI"
+    }
+  },
+  {
+    "id": 29,
+    "name": "Mouse Ultraleve RGB",
+    "price": 72,
+    "category": "mouses",
+    "image": "Mouse Ultraleve RGB.webp",
+    "description": "Mouse liviano para partidas competitivas.",
+    "attributes": {
+      "conexion": "USB",
+      "peso": "58 gramos",
+      "dpi": "16000 DPI"
+    }
+  },
+  {
+    "id": 30,
+    "name": "Auriculares CSGO2 Inalámbricos",
+    "price": 130,
+    "category": "auriculares",
+    "image": "Auriculares CSGO2 Inalámbricos.webp",
+    "description": "Auriculares inalámbricos con micrófono desmontable.",
+    "attributes": {
+      "conexion": "Wireless 2.4 GHz",
+      "bateria": "20 horas",
+      "microfono": "Desmontable"
+    }
+  },
+  {
+    "id": 31,
+    "name": "Auriculares Studio con Cancelación de Ruido",
+    "price": 150,
+    "discount": 25,
+    "category": "auriculares",
+    "image": "Auriculares Studio con Cancelación de Ruido.webp",
+    "description": "Auriculares con cancelación activa de ruido.",
+    "attributes": {
+      "conexion": "Bluetooth 5.3",
+      "cancelacion": "Activa",
+      "bateria": "35 horas"
+    }
+  }
+]

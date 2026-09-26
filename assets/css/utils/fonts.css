@@ -1,0 +1,24 @@
+@import url("https://fonts.googleapis.com/css2?family=Archivo+Black&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap");
+
+:root {
+  --roboto: "Roboto", sans-serif;
+  --archivo: "Archivo Black", sans-serif;
+
+  --normal: 400;
+  --bold: 700;
+  --xbold: 900;
+}
+
+body {
+  font-family: var(--roboto);
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: var(--archivo);
+  text-transform: uppercase;
+}

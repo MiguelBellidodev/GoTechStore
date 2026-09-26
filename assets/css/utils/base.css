@@ -1,0 +1,40 @@
+/* 
+  Colocamos unicamente 
+  lo que no vamos a utilizar
+  en todo el proyecto 
+  mas que para ser definido una vez.
+*/
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+  scroll-padding-top: 6rem;
+}
+
+main[id],
+section[id] {
+  scroll-margin-top: 6rem;
+}
+
+body {
+  background-color: var(--ghost-white);
+  color: var(--blue-slate);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+}
+
+ul {
+  list-style: none;
+}
+
+img {
+  width: 100%;
+  max-width: 100%;
+}
